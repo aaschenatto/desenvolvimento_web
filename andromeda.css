@@ -24,7 +24,7 @@ body{
 }
 .botoes{
     color: white;
-    border-radius: 12%;
+    border-radius: 40px;
     width: 15%;
     height: 60px;
     margin-right: 3%;
@@ -35,4 +35,23 @@ body{
 }
 .botoes:hover{
     transform: scale(1.1);
+}
+.qua{
+    background-color: rgb(132, 73, 188);
+    width: 30%;
+    height: 35%;
+    color:white ;
+    margin-left: 100pt;
+    margin-top:40pt ;
+    text-align: center;
+    border: 80px;
+    float: left;
+    border-radius: 40px;
+}
+.img1{
+    width: 30%;
+    height: 25%;
+    float: right;
+    margin-right: 100pt;
+    margin-top: 40pt;
 }
