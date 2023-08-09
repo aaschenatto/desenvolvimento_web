@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(41, 69, 148);
+    background-image: "fundo.png" ;
     margin: 0%;
     } 
     header{
@@ -18,6 +18,7 @@ body{
     font-size: 16pt;
     color: white;
     margin-right: 5%;
+    text-align: center;
 }
 .botao{
     text-align: center;
@@ -54,4 +55,13 @@ body{
     float: right;
     margin-right: 100pt;
     margin-top: 40pt;
+}
+.contatos{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 900;
+    margin-top: 30%;
+    line-height: normal;
 }
