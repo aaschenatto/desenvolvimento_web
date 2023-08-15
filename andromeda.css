@@ -3,7 +3,7 @@ body{
     margin: 0%;
     } 
     header{
-        background-color: rgb(132, 73, 188);
+        
         margin-bottom: 20pt;
     }      
 
@@ -38,7 +38,7 @@ body{
     transform: scale(1.1);
 }
 .qua{
-    background-color: rgb(132, 73, 188);
+    background-color: rgb(107, 0, 207);
     width: 30%;
     height: 35%;
     color:white ;
